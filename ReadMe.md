@@ -1,7 +1,7 @@
 # ZeroHunger
 
 > Logo
-<img height="300" width="300" src="https://github.com/ZuhairTarif/ZeroHunger/blob/main/ReadMe/logo.svg" align="center">
+![logo.svg](ReadMe/logo.svg)
 
 
 
@@ -15,6 +15,6 @@
 ### Main Page
 ![Untitled](ReadMe/Untitled.png)
 
-### For Download the Project Click : https://github.com/ZuhairTarif/ZeroHunger
+### For Download the Project Click : <a href="https://github.com/ZuhairTarif/ZeroHunger">ZeroHunger</a>
 
 
